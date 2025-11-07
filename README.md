@@ -187,7 +187,7 @@ enable_backwards = true
 
 ### completion
 
-> Consider using the [Plug API](#🤖-plug-api) and setting this to false
+> Consider using the [Plug API](#-plug-api) and setting this to false
 
 If you use a completion _pum_ that also uses the tab key for a smart scroll function. Setting this to true will disable tab out when the _pum_ is open and execute the smart scroll function instead.
 
@@ -202,7 +202,7 @@ completion = true
 
 Here you can add more symbols you want to tab out from.
 
-**open an close can only contain one character for now**
+**open and close can only contain one character for now**
 
 ```lua
 -- default
